@@ -18,5 +18,8 @@
   "homepage": "https://github.com/tysonwilliams/tdd-jest#readme",
   "devDependencies": {
     "jest-cli": "^20.0.4"
+  },
+  "jest": {
+    "testingEnvironment": "node"
   }
 }
